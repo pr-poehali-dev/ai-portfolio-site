@@ -211,7 +211,7 @@ const Index = () => {
             <div className="animate-slide-in">
               <div className="w-full h-96 bg-gray-800 rounded-lg overflow-hidden">
                 <img
-                  src="/img/54d47cc1-eb92-49e8-aebd-82856cb22030.jpg"
+                  src="https://cdn.poehali.dev/files/36f224b6-645b-4655-ad05-9c28d7ff195c.png"
                   alt="Олег Серегин - AI-специалист"
                   className="w-full h-full object-cover"
                 />
