@@ -235,7 +235,7 @@ const Index = () => {
               <div className="grid grid-cols-2 gap-6">
                 <div>
                   <h4 className="text-gold font-semibold mb-2">Опыт</h4>
-                  <p className="text-gray-400">5+ лет в сфере AI</p>
+                  <p className="text-gray-400">2+ лет в сфере AI</p>
                 </div>
                 <div>
                   <h4 className="text-gold font-semibold mb-2">Проектов</h4>
